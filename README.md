@@ -1,2 +1,2 @@
 # DimensionDisplayService
-[![Build Status](https://travis-ci.com/BlendedGamesFramework/BG-DimensionDisplayService.svg?branch=master)](https://travis-ci.com/BlendedGamesFramework/BG-DimensionDisplayService)
+[![Build Status](https://travis-ci.com/BlendedGamesFramework/BG-DimensionDisplayService.svg?branch=master)](https://travis-ci.com/BlendedGamesFramework/BG-DimensionDisplayService)[![Coverage Status](https://coveralls.io/repos/github/BlendedGamesFramework/BG-DimensionDisplayService/badge.svg?branch=master)](https://coveralls.io/github/BlendedGamesFramework/BG-DimensionDisplayService?branch=master)
